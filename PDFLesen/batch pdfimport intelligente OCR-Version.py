@@ -32,7 +32,7 @@ from PIL import Image
 # pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\\tesseract.exe"
 
 # Ordner mit PDFs
-pdf_ordner = "pdfs"
+pdf_ordner = "C:\\Projekte\\Python\\PDFLesen\\pdfs"
 # Ausgabeordner für Textdateien
 ausgabe_ordner = "texte"
 
