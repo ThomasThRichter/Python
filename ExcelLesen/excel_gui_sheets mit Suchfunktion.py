@@ -1,4 +1,5 @@
 """
+commited in gitup 06.11.25
 Öffnet eine GUI mit folgenden Funktionen:
 
 Excel-Datei auswählen
